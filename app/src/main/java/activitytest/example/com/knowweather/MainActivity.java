@@ -11,4 +11,3 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-I:\Users\Administrator.USER-20180718WZ\AndroidStudioProjects\KnowWeather
